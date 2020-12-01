@@ -2,7 +2,7 @@
 
 ```
 I’m currently working on Python and Web Development with React
-Reach me on discord!: <b>Pioyi#5490</b>
+Reach me on discord!: Pioyi#5490
 ```
 
 <br>
