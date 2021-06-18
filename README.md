@@ -6,7 +6,7 @@ You should definitely check out my pinned projects. Some of them are really inte
 
 ## What am I working on?
 
-I'm currently learning C with the goal of creating my very own programming language! </br>
+I'm currently learning C so I can understand more on how a computer actually works. </br>
 I want to improve my backend skills and I recently started using React's typescript template.
 
 ## Reaching Me
