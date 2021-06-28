@@ -1,7 +1,7 @@
 # Hi, I'm Pioyi 👋
 
 I'm a developer living in Athens, Greece. </br>
-I love programming and I particularly like trying out new stuff and technologies every so often. <br/>
+I love programming and I particularly like trying out new stuff and technologies. <br/>
 You should definitely check out my pinned projects. Some of them are really interesting!
 
 ## What am I working on?
